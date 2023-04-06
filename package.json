@@ -1,0 +1,14 @@
+{
+  "name": "practice-automation-test",
+  "version": "1.0.0",
+  "description": "Practice01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehsan Abtahi",
+  "license": "ISC",
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
